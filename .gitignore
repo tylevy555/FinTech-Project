@@ -1,3 +1,6 @@
+# CSV/Excel/etc.
+*.csv
+
 # Byte-compiled
 __pycache__/
 
